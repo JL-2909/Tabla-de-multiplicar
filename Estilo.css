@@ -1,0 +1,139 @@
+body{
+    background: wheat;
+    border: 1px solid black;
+    padding: 20px;
+    
+
+}
+
+table {
+    background: rosybrown;
+    color: aquamarine;
+    margin-left: 30%;
+}
+
+ td {
+    border: 1px solid #333;
+}
+ h1 {
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-left: 30%;
+ }
+
+ .titulo {
+    position:absolute;
+    top: 30px;
+    left: 180px;
+ }
+
+ .cabeza {
+   
+    position: absolute;
+    top: 80px;
+    left: 180px;
+    
+ }
+
+ .jaja {
+    position: absolute;
+    top: 325px ;
+    left: 180px;
+ }
+
+ .ojo {
+    position: absolute;
+    top: 378px;
+    left: 180px;
+ }
+
+ .gen {
+    position: absolute;
+    top: 30px;
+    left: 340px;
+ }
+
+ .mary {
+    position: absolute;
+    top: 80px;
+    left: 340px;
+ }
+
+ .JL {
+   position: absolute;
+   top: 325px;
+   left: 340px;
+ }
+
+ .jimenez {
+   position: absolute;
+   top: 380px;
+   left: 340px;
+ }
+
+ .LJ {
+   position: absolute;
+   top: 30px;
+   left: 500px;
+ }
+
+ .lozano {
+   position: absolute;
+   top: 80px;
+   left: 500px;
+ }
+
+ .abc {
+   position: absolute;
+   top: 325px;
+   left: 500px;
+ }
+
+ .zx {
+   position: absolute;
+   top: 380px;
+   left: 500px;
+ 
+ }
+
+
+ @media only screen and (min-width:768px){
+   table {
+  
+      margin-left: 20%;
+  }
+  
+  
+   h1 {
+      
+      margin-left: 20%;
+   }
+ }
+
+
+ 
+
+ @media only screen and (min-width:400px){
+   
+   body{
+   
+     height: 1220px;
+   }
+
+   table {
+     margin-left: 20%;
+ 
+     
+    
+  }
+  
+  
+   h1 {
+      margin-left: 20%;
+      
+   }
+
+  }
+
+ 
